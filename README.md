@@ -10,6 +10,9 @@ Step3:
 Install pgAdmin(PostgreSQL) as database.
 -Create the users and products table in the database.
 
+Step4:
+-Create the .env file inside the server folder and update the secret key.
+ JWT_SECRET=mysecretkey123
 
 ![users](https://github.com/user-attachments/assets/e85af362-5ca2-4fa8-8d77-a3b18842e25a)
 
