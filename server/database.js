@@ -3,7 +3,7 @@ const pool = new Pool({
   user: 'postgres',
   host: 'localhost',
   database: 'flutter',
-  password: 'password',
+  password: 'password12345',
   port: 5433,
 });
 
